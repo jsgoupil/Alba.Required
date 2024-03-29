@@ -1,0 +1,6 @@
+@Alba.Required_HostAddress = http://localhost:5160
+
+GET {{Alba.Required_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
